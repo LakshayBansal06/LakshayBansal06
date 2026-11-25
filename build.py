@@ -755,7 +755,7 @@ def readme(active):
     nm = C["name"]
     bg, tc, tx, ic = hx(T["bg1"]), hx(T["primary_light"]), hx(T["muted"]), hx(T["secondary"])
     stats = (f"https://github-readme-stats.vercel.app/api?username={u}&show_icons=true&hide_border=true&border_radius=16"
-             f"&bg_color={bg}&title_color={tc}&text_color={tx}&icon_color={ic}&ring_color={hx(T['primary'])}&include_all_commits=true&count_private=true&rank_icon=github")
+             f"&bg_color={bg}&title_color={tc}&text_color={tx}&icon_color={ic}&ring_color={hx(T['primary'])}&rank_icon=github")
     langs = (f"https://github-readme-stats.vercel.app/api/top-langs/?username={u}&layout=compact&hide_border=true&border_radius=16"
              f"&bg_color={bg}&title_color={tc}&text_color={tx}&langs_count=8")
     streak = (f"https://streak-stats.demolab.com/?user={u}&hide_border=true&border_radius=16&background={bg}"

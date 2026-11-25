@@ -74,7 +74,7 @@
 </picture>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LakshayBansal06&show_icons=true&hide_border=true&border_radius=16&bg_color=0A1020&title_color=99F6E4&text_color=8B9BB4&icon_color=818CF8&ring_color=2DD4BF&include_all_commits=true&count_private=true&rank_icon=github" height="175" alt="GitHub stats for LakshayBansal06">
+  <img src="https://github-readme-stats.vercel.app/api?username=LakshayBansal06&show_icons=true&hide_border=true&border_radius=16&bg_color=0A1020&title_color=99F6E4&text_color=8B9BB4&icon_color=818CF8&ring_color=2DD4BF&rank_icon=github" height="175" alt="GitHub stats for LakshayBansal06">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshayBansal06&layout=compact&hide_border=true&border_radius=16&bg_color=0A1020&title_color=99F6E4&text_color=8B9BB4&langs_count=8" height="175" alt="Most used languages">
 </p>
 <p align="center">
