@@ -1,0 +1,152 @@
+{
+  "username": "LakshayBansal06",
+  "name": "Lakshay Bansal",
+  "first_name": "Lakshay",
+  "kicker": "HELLO, WORLD — I AM",
+  "roles": ["Data Analyst", "Data Scientist", "BI Developer", "SQL Storyteller", "ML Explorer"],
+  "tagline": "I turn messy data into decisions people can trust — with SQL, Python, Power BI and the ML models that sit on top.",
+  "location": "B.Tech CSE · Bennett University",
+  "status": "Open to Data Analyst internships",
+  "avatar": "auto",
+  "floating_badges": ["SELECT *", "{ ML }", "Σ", "DAX"],
+
+  "orgs": ["Microsoft Innovate", "Uber AI Solutions", "IIT Guwahati", "IBM", "Infosys Springboard", "BITS Pilani Dubai", "Springer", "ACM Bennett", "HackIndia", "India Innovates · MCD Delhi"],
+
+  "links": {
+    "email": "lakshaybansal123321@gmail.com",
+    "linkedin": "lakshay-bansal-97584033a",
+    "portfolio": "https://lakshay-portfolio-c98s.onrender.com/",
+    "leetcode": "",
+    "twitter": "",
+    "resume": "https://lakshay-portfolio-c98s.onrender.com/Lakshay_Bansal_Resume.pdf"
+  },
+
+  "about": {
+    "bio": "CS student who loves the moment a messy table finally tells a clear story. My work starts in SQL or Pandas and ends as a Power BI dashboard, a model, or a recommendation someone can act on.",
+    "facts": [
+      ["role", "Data Analyst & Data Scientist"],
+      ["education", "B.Tech CSE · Bennett University · 2024–28"],
+      ["cgpa", "8.76"],
+      ["core_tools", ["SQL", "Python", "Power BI", "Excel"]],
+      ["research", "ICAIN-2025 · BITS Pilani Dubai · Springer"],
+      ["motto", "Numbers first. Then the story."]
+    ],
+    "now": [
+      "Data labelling freelancer at Uber AI Solutions",
+      "Data Scientist on AvecAgro, Team Project_404",
+      "Looking for Data Analyst, BA & DS internships",
+      "Remote or on-site · replies within a day"
+    ]
+  },
+
+  "highlights": [
+    {"value": "50.4M", "label": "Records audited", "sub": "Microsoft Innovate 2026"},
+    {"value": "25M", "label": "Data values built", "sub": "AvecAgro dataset"},
+    {"value": "$776K", "label": "Revenue at risk found", "sub": "airline churn model"},
+    {"value": "8.76", "label": "CGPA", "sub": "B.Tech CSE · Bennett"}
+  ],
+
+  "projects": [
+    {
+      "title": "AvecAgro",
+      "kicker": "★ FLAGSHIP · AGRI DATA SCIENCE · ML · IOT",
+      "summary": "India's autonomous farm intelligence platform: 8 AI engines, IoT soil sensing and a spraying drone in one loop.",
+      "built": "Owned the data: collected, cleaned and engineered 25M values and 5.8M images; wrote the pest-alert module. HackIndia 2025 1st Runner-Up.",
+      "metrics": [["25M", "data values"], ["5.8M", "crop images"], ["97.3%", "CNN vision"]],
+      "stack": ["Python", "Pandas", "CNN", "IoT", "Data Viz"],
+      "repo": "https://github.com/arpit-k16/AvecAgro-M2",
+      "demo": "https://avecagro.onrender.com/",
+      "case_study": "https://lakshay-portfolio-c98s.onrender.com/work/avecagro"
+    },
+    {
+      "title": "TrustPrint",
+      "kicker": "MICROSOFT INNOVATE 2026 · DATA QUALITY · GEO",
+      "summary": "From messy CSV to a trusted dashboard: how much of an AI-drawn world map can a decision-maker trust?",
+      "built": "Audited 50.4M building footprints across 989 partitions, ran QuadKey provenance checks and IoU matching against OpenStreetMap.",
+      "metrics": [["50.4M", "records"], ["989", "partitions"], ["16.89%", "valid confidence"]],
+      "stack": ["Python", "Pandas", "GeoJSON", "OpenStreetMap", "Power BI"],
+      "repo": "",
+      "demo": "",
+      "case_study": "https://lakshay-portfolio-c98s.onrender.com/work/trustprint"
+    },
+    {
+      "title": "Airline Retention",
+      "kicker": "IIT GUWAHATI · CUSTOMER ANALYTICS · ML · 2026",
+      "summary": "Churn prediction for an airline loyalty programme that tells retention teams who to call first.",
+      "built": "12 behavioural segments, Logistic Regression vs Random Forest vs XGBoost, and a 6-page Power BI dashboard.",
+      "metrics": [["$776K", "revenue at risk"], ["165", "high-risk flagged"], ["12", "segments"]],
+      "stack": ["Power BI", "DAX", "Alteryx", "Scikit-learn", "XGBoost"],
+      "repo": "https://github.com/LakshayBansal06/Optimizing-Airline-Loyalty-Retention-Using-Customer-Analytics-ML",
+      "demo": "",
+      "case_study": "https://lakshay-portfolio-c98s.onrender.com/work/airline-retention"
+    },
+    {
+      "title": "StockSense",
+      "kicker": "IIT GUWAHATI · FORECASTING · STREAMLIT · 2025",
+      "summary": "Inventory optimization: why stores run out of fast movers while slow SKUs pile up.",
+      "built": "20+ SQL queries, 6 demand features and an XGBoost classifier that grades every forecast, shipped as a live Streamlit app.",
+      "metrics": [["4,500+", "records"], ["30", "SKUs"], ["10+", "dashboard KPIs"]],
+      "stack": ["SQL", "Python", "Pandas", "XGBoost", "Streamlit"],
+      "repo": "https://github.com/LakshayBansal06/Summer-Analytics-Project-2025-CA-IIT-GUWAHATI",
+      "demo": "https://summer-project-2025-ca-iit-guwahati-cjyzxcfoczvcuhjh.streamlit.app/",
+      "case_study": "https://lakshay-portfolio-c98s.onrender.com/work/stocksense"
+    },
+    {
+      "title": "IPL Auction",
+      "kicker": "SQL · SPORTS ANALYTICS · 2025",
+      "summary": "A pure-SQL deep dive that ends in a quantified auction strategy for RCB.",
+      "built": "Modelled a 20-table IPL database and ranked batting, bowling and venue impact with CTEs and window functions.",
+      "metrics": [["577+", "matches"], ["400+", "players"], ["58%", "field-first wins"]],
+      "stack": ["MySQL", "CTEs", "Window functions", "JOINs"],
+      "repo": "",
+      "demo": "",
+      "case_study": "https://lakshay-portfolio-c98s.onrender.com/work/ipl-auction"
+    }
+  ],
+
+  "journey": [
+    ["APR 2026", "Achievement", "1st Place, INFUTURUM 4.0", "ACM Bennett University"],
+    ["2026", "Hackathon", "Microsoft Innovate 2026 · TrustPrint", "Microsoft Innovate"],
+    ["2026", "Achievement", "Finalist, India Innovates 2026", "MCD Delhi"],
+    ["SUMMER 2026", "Project", "BI & Visualization Analyst", "CA Club, IIT Guwahati"],
+    ["MAY 2025 — NOW", "Work", "Data Labelling Freelancer", "Uber AI Solutions"],
+    ["2025", "Research", "Paper presented at ICAIN-2025", "BITS Pilani Dubai · Springer"],
+    ["2025", "Achievement", "1st Runner-Up, HackIndia 2025 Nationals", "Team Project_404"],
+    ["JAN 2025", "Project", "Started AvecAgro", "Team Project_404"],
+    ["AUG 2024 — NOW", "Education", "B.Tech, Computer Science Engineering", "Bennett University · CGPA 8.76"]
+  ],
+
+  "skills": [
+    ["Analytics", ["SQL", "Python", "Pandas", "Excel", "MySQL", "SQLite"]],
+    ["BI & Viz", ["Power BI", "DAX", "Alteryx", "Streamlit", "Excel Dashboards"]],
+    ["Machine Learning", ["XGBoost", "Scikit-learn", "Random Forest", "Logistic Regression", "CNN"]],
+    ["SQL Craft", ["JOINs", "CTEs", "Window functions", "CASE logic", "Aggregations"]],
+    ["Data Quality", ["Data cleaning", "Feature engineering", "GeoJSON", "OpenStreetMap", "IoU matching"]],
+    ["Tools", ["Git", "GitHub", "Jupyter", "VS Code"]]
+  ],
+
+  "certifications": [
+    ["Advanced SQL Analytics (Project Completion)", "IIT Guwahati · Summer Projects", "2025"],
+    ["Driving Retention in Airline Loyalty Programs", "IIT Guwahati · Summer Projects", "2026"],
+    ["Python for Data Science", "Infosys Springboard", "2025"],
+    ["SQL and Relational Databases 101", "IBM Cognitive Class", "2025"],
+    ["Data Analysis with Python", "IBM Cognitive Class", "2025"]
+  ],
+
+  "footer_quote": "Got data that won't talk? Let's make it decisive.",
+
+  "theme": {
+    "bg0": "#05080F",
+    "bg1": "#0A1020",
+    "bg2": "#101A33",
+    "line": "#1E2A44",
+    "primary": "#2DD4BF",
+    "primary_light": "#99F6E4",
+    "primary_deep": "#0F766E",
+    "secondary": "#818CF8",
+    "tertiary": "#C084FC",
+    "accent": "#FBBF24",
+    "text": "#EAF2FF",
+    "muted": "#8B9BB4"
+  }
+}

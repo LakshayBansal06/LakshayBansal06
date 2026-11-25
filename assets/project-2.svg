@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 390" width="1200" height="390" role="img" aria-label="TrustPrint: From messy CSV to a trusted dashboard: how much of an AI-drawn world map can a decision-maker trust? Audited 50.4M building footprints across 989 partitions, ran QuadKey provenance checks and IoU matching against OpenStreetMap. Stack: Python, Pandas, GeoJSON, OpenStreetMap, Power BI.">
+<title>TrustPrint: From messy CSV to a trusted dashboard: how much of an AI-drawn world map can a decision-maker trust? Audited 50.4M building footprints across 989 partitions, ran QuadKey provenance checks and IoU matching against OpenStreetMap. Stack: Python, Pandas, GeoJSON, OpenStreetMap, Power BI.</title>
+<style>
+    .p1-sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Inter, 'Helvetica Neue', Arial, sans-serif; }
+    .p1-mono { font-family: ui-monospace, 'Cascadia Code', 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace; }
+    .p1-in { animation: p1-in 1.1s cubic-bezier(.16,1,.3,1) both; }
+    .p1-pop { animation: p1-pop .7s cubic-bezier(.34,1.56,.64,1) both; }
+    .p1-draw { stroke-dasharray: 1400; stroke-dashoffset: 1400; animation: p1-draw 2s cubic-bezier(.65,0,.35,1) .4s forwards; }
+    .p1-pulse { animation: p1-pulse 2s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    .p1-blink { animation: p1-blink 1s steps(1) infinite; }
+    @keyframes p1-in { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+    @keyframes p1-pop { from { opacity: 0; transform: translateY(8px) scale(.96); } to { opacity: 1; transform: none; } }
+    @keyframes p1-draw { to { stroke-dashoffset: 0; } }
+    @keyframes p1-pulse { 0%,100% { transform: scale(1); opacity: 1; } 50% { transform: scale(1.8); opacity: .25; } }
+    @keyframes p1-blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .p1-in, .p1-pop, .p1-pulse, .p1-blink { animation: none !important; }
+      .p1-draw { animation: none; stroke-dashoffset: 0; }
+    }</style>
+  <defs>
+    <linearGradient id="p1-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A1020"/><stop offset="1" stop-color="#05080F"/>
+    </linearGradient>
+    <radialGradient id="p1-glow" cx="85%" cy="20%" r="60%">
+      <stop offset="0" stop-color="#818CF8" stop-opacity=".28"/><stop offset="1" stop-color="#818CF8" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="p1-grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#2DD4BF" stroke-opacity=".06"/>
+    </pattern>
+    <clipPath id="p1-clip"><rect width="1200" height="390" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#p1-clip)">
+    <rect width="1200" height="390" fill="url(#p1-bg)"/>
+    <rect width="1200" height="390" fill="url(#p1-grid)"/>
+    <rect width="1200" height="390" fill="url(#p1-glow)"/>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="389" rx="22" fill="none" stroke="#1E2A44"/>
+  <style>.p1-trace { stroke-dasharray: 509 2671; animation: p1-trace 8s linear infinite; }
+  @keyframes p1-trace { from { stroke-dashoffset: 3180; } to { stroke-dashoffset: 0; } }
+  @media (prefers-reduced-motion: reduce) { .p1-trace { display: none; } }</style>
+  <rect class="p1-trace" x="1" y="1" width="1198" height="388" rx="22" fill="none" stroke="#818CF8" stroke-width="2" stroke-linecap="round" opacity=".9"/>
+  <text class="p1-sans" x="1180" y="120" font-size="200" font-weight="900" text-anchor="end" fill="#818CF8" fill-opacity=".04">02</text>
+  <g class="p1-in" style="animation-delay:0.10s">
+    <text class="p1-mono" x="56" y="62" font-size="12.5" letter-spacing="3" fill="#818CF8">02 · MICROSOFT INNOVATE 2026 · DATA QUALITY · GEO</text>
+    <text class="p1-sans" x="53" y="130" font-size="50" font-weight="800" letter-spacing="-1.5" fill="#EAF2FF">TrustPrint</text>
+    <path class="p1-draw" d="M56 150 H220" stroke="#818CF8" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <g class="p1-in" style="animation-delay:0.30s"><text class="p1-sans" x="56" y="186" font-size="18" fill="#EAF2FF" fill-opacity=".86">From messy CSV to a trusted dashboard: how much of an</text><text class="p1-sans" x="56" y="212" font-size="18" fill="#EAF2FF" fill-opacity=".86">AI-drawn world map can a decision-maker trust?</text><text class="p1-mono" x="56" y="256" font-size="13.5" fill="#8B9BB4"><tspan fill="#818CF8">BUILT ›</tspan> Audited 50.4M building footprints across 989 partitions, ran QuadKey</text><text class="p1-mono" x="122" y="278" font-size="13.5" fill="#8B9BB4">provenance checks and IoU matching against OpenStreetMap.</text></g>
+  <g class="p1-pop" style="animation-delay:0.70s"><rect x="56" y="322" width="76" height="32" rx="16" fill="#818CF8" fill-opacity=".1" stroke="#818CF8" stroke-opacity=".45"/><text class="p1-mono" x="94" y="343" font-size="13" text-anchor="middle" fill="#EAF2FF">Python</text></g><g class="p1-pop" style="animation-delay:0.77s"><rect x="141.57999999999998" y="322" width="76" height="32" rx="16" fill="#818CF8" fill-opacity=".1" stroke="#818CF8" stroke-opacity=".45"/><text class="p1-mono" x="179" y="343" font-size="13" text-anchor="middle" fill="#EAF2FF">Pandas</text></g><g class="p1-pop" style="animation-delay:0.84s"><rect x="227.15999999999997" y="322" width="84" height="32" rx="16" fill="#818CF8" fill-opacity=".1" stroke="#818CF8" stroke-opacity=".45"/><text class="p1-mono" x="269" y="343" font-size="13" text-anchor="middle" fill="#EAF2FF">GeoJSON</text></g><g class="p1-pop" style="animation-delay:0.91s"><rect x="320.66999999999996" y="322" width="131" height="32" rx="16" fill="#818CF8" fill-opacity=".1" stroke="#818CF8" stroke-opacity=".45"/><text class="p1-mono" x="386" y="343" font-size="13" text-anchor="middle" fill="#EAF2FF">OpenStreetMap</text></g><g class="p1-pop" style="animation-delay:0.98s"><rect x="461.76" y="322" width="91" height="32" rx="16" fill="#818CF8" fill-opacity=".1" stroke="#818CF8" stroke-opacity=".45"/><text class="p1-mono" x="507" y="343" font-size="13" text-anchor="middle" fill="#EAF2FF">Power BI</text></g>
+  <g class="p1-pop" style="animation-delay:0.50s"><rect x="820" y="55" width="330" height="82" rx="16" fill="#818CF8" fill-opacity=".06" stroke="#818CF8" stroke-opacity=".3"/><rect x="820" y="73" width="4" height="46" rx="2" fill="#818CF8"/><text class="p1-sans" x="846" y="101" font-size="32" font-weight="800" letter-spacing="-1" fill="#818CF8">50.4M</text><text class="p1-mono" x="848" y="122" font-size="11.5" letter-spacing="2" fill="#8B9BB4">RECORDS</text></g><g class="p1-pop" style="animation-delay:0.65s"><rect x="820" y="151" width="330" height="82" rx="16" fill="#818CF8" fill-opacity=".06" stroke="#818CF8" stroke-opacity=".3"/><rect x="820" y="169" width="4" height="46" rx="2" fill="#818CF8"/><text class="p1-sans" x="846" y="197" font-size="32" font-weight="800" letter-spacing="-1" fill="#818CF8">989</text><text class="p1-mono" x="848" y="218" font-size="11.5" letter-spacing="2" fill="#8B9BB4">PARTITIONS</text></g><g class="p1-pop" style="animation-delay:0.80s"><rect x="820" y="247" width="330" height="82" rx="16" fill="#818CF8" fill-opacity=".06" stroke="#818CF8" stroke-opacity=".3"/><rect x="820" y="265" width="4" height="46" rx="2" fill="#818CF8"/><text class="p1-sans" x="846" y="293" font-size="32" font-weight="800" letter-spacing="-1" fill="#818CF8">16.89%</text><text class="p1-mono" x="848" y="314" font-size="11.5" letter-spacing="2" fill="#8B9BB4">VALID CONFIDENCE</text></g>
+</svg>

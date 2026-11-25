@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 510" width="1200" height="510" role="img" aria-label="Tech stack. Analytics: SQL, Python, Pandas, Excel, MySQL, SQLite. BI &amp; Viz: Power BI, DAX, Alteryx, Streamlit, Excel Dashboards. Machine Learning: XGBoost, Scikit-learn, Random Forest, Logistic Regression, CNN. SQL Craft: JOINs, CTEs, Window functions, CASE logic, Aggregations. Data Quality: Data cleaning, Feature engineering, GeoJSON, OpenStreetMap, IoU matching. Tools: Git, GitHub, Jupyter, VS Code.">
+<title>Tech stack. Analytics: SQL, Python, Pandas, Excel, MySQL, SQLite. BI &amp; Viz: Power BI, DAX, Alteryx, Streamlit, Excel Dashboards. Machine Learning: XGBoost, Scikit-learn, Random Forest, Logistic Regression, CNN. SQL Craft: JOINs, CTEs, Window functions, CASE logic, Aggregations. Data Quality: Data cleaning, Feature engineering, GeoJSON, OpenStreetMap, IoU matching. Tools: Git, GitHub, Jupyter, VS Code.</title>
+<style>
+    .sk-sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Inter, 'Helvetica Neue', Arial, sans-serif; }
+    .sk-mono { font-family: ui-monospace, 'Cascadia Code', 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace; }
+    .sk-in { animation: sk-in 1.1s cubic-bezier(.16,1,.3,1) both; }
+    .sk-pop { animation: sk-pop .7s cubic-bezier(.34,1.56,.64,1) both; }
+    .sk-draw { stroke-dasharray: 1400; stroke-dashoffset: 1400; animation: sk-draw 2s cubic-bezier(.65,0,.35,1) .4s forwards; }
+    .sk-pulse { animation: sk-pulse 2s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    .sk-blink { animation: sk-blink 1s steps(1) infinite; }
+    @keyframes sk-in { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+    @keyframes sk-pop { from { opacity: 0; transform: translateY(8px) scale(.96); } to { opacity: 1; transform: none; } }
+    @keyframes sk-draw { to { stroke-dashoffset: 0; } }
+    @keyframes sk-pulse { 0%,100% { transform: scale(1); opacity: 1; } 50% { transform: scale(1.8); opacity: .25; } }
+    @keyframes sk-blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .sk-in, .sk-pop, .sk-pulse, .sk-blink { animation: none !important; }
+      .sk-draw { animation: none; stroke-dashoffset: 0; }
+    }</style>
+  <defs>
+    <linearGradient id="sk-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A1020"/><stop offset="1" stop-color="#05080F"/>
+    </linearGradient>
+    <radialGradient id="sk-glow" cx="95%" cy="20%" r="60%">
+      <stop offset="0" stop-color="#818CF8" stop-opacity=".28"/><stop offset="1" stop-color="#818CF8" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="sk-grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#2DD4BF" stroke-opacity=".06"/>
+    </pattern>
+    <clipPath id="sk-clip"><rect width="1200" height="510" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#sk-clip)">
+    <rect width="1200" height="510" fill="url(#sk-bg)"/>
+    <rect width="1200" height="510" fill="url(#sk-grid)"/>
+    <rect width="1200" height="510" fill="url(#sk-glow)"/>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="509" rx="22" fill="none" stroke="#1E2A44"/>
+  <defs><linearGradient id="sk-spine" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2DD4BF"/><stop offset="1" stop-color="#C084FC" stop-opacity=".2"/></linearGradient>
+  <radialGradient id="sk-dot"><stop offset="0" stop-color="#fff"/><stop offset=".4" stop-color="#99F6E4"/><stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/></radialGradient></defs>
+  <path class="sk-draw" d="M64 40 V470" stroke="url(#sk-spine)" stroke-width="1.5"/>
+  <circle cx="64" cy="40" r="8" fill="url(#sk-dot)">
+    <animate attributeName="cy" values="40;470" dur="5s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines=".45 0 .55 1"/>
+    <animate attributeName="opacity" values="0;1;0" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  
+  <g class="sk-in" style="animation-delay:0.20s">
+    <circle cx="64" cy="72" r="7" fill="#05080F" stroke="#2DD4BF" stroke-width="2"/>
+    <circle class="sk-pulse" cx="64" cy="72" r="3" fill="#2DD4BF" style="animation-delay:0.0s"/>
+    <text class="sk-sans" x="88" y="78" font-size="18" font-weight="700" fill="#EAF2FF">Analytics</text>
+    <text class="sk-mono" x="88" y="98" font-size="11" letter-spacing="1.5" fill="#8B9BB4">06 TOOLS</text>
+  </g><g class="sk-pop" style="animation-delay:0.30s"><rect x="300" y="56" width="52" height="32" rx="16" fill="#2DD4BF" fill-opacity=".1" stroke="#2DD4BF" stroke-opacity=".45"/><text class="sk-mono" x="326" y="77" font-size="13" text-anchor="middle" fill="#EAF2FF">SQL</text></g><g class="sk-pop" style="animation-delay:0.37s"><rect x="361.79" y="56" width="76" height="32" rx="16" fill="#2DD4BF" fill-opacity=".1" stroke="#2DD4BF" stroke-opacity=".45"/><text class="sk-mono" x="400" y="77" font-size="13" text-anchor="middle" fill="#EAF2FF">Python</text></g><g class="sk-pop" style="animation-delay:0.44s"><rect x="447.37" y="56" width="76" height="32" rx="16" fill="#2DD4BF" fill-opacity=".1" stroke="#2DD4BF" stroke-opacity=".45"/><text class="sk-mono" x="485" y="77" font-size="13" text-anchor="middle" fill="#EAF2FF">Pandas</text></g><g class="sk-pop" style="animation-delay:0.51s"><rect x="532.95" y="56" width="68" height="32" rx="16" fill="#2DD4BF" fill-opacity=".1" stroke="#2DD4BF" stroke-opacity=".45"/><text class="sk-mono" x="567" y="77" font-size="13" text-anchor="middle" fill="#EAF2FF">Excel</text></g><g class="sk-pop" style="animation-delay:0.58s"><rect x="610.6" y="56" width="68" height="32" rx="16" fill="#2DD4BF" fill-opacity=".1" stroke="#2DD4BF" stroke-opacity=".45"/><text class="sk-mono" x="644" y="77" font-size="13" text-anchor="middle" fill="#EAF2FF">MySQL</text></g><g class="sk-pop" style="animation-delay:0.65s"><rect x="688.25" y="56" width="76" height="32" rx="16" fill="#2DD4BF" fill-opacity=".1" stroke="#2DD4BF" stroke-opacity=".45"/><text class="sk-mono" x="726" y="77" font-size="13" text-anchor="middle" fill="#EAF2FF">SQLite</text></g>
+  <g class="sk-in" style="animation-delay:0.32s">
+    <circle cx="64" cy="146" r="7" fill="#05080F" stroke="#818CF8" stroke-width="2"/>
+    <circle class="sk-pulse" cx="64" cy="146" r="3" fill="#818CF8" style="animation-delay:0.3s"/>
+    <text class="sk-sans" x="88" y="152" font-size="18" font-weight="700" fill="#EAF2FF">BI &amp; Viz</text>
+    <text class="sk-mono" x="88" y="172" font-size="11" letter-spacing="1.5" fill="#8B9BB4">05 TOOLS</text>
+  </g><g class="sk-pop" style="animation-delay:0.51s"><rect x="300" y="130" width="91" height="32" rx="16" fill="#818CF8" fill-opacity=".1" stroke="#818CF8" stroke-opacity=".45"/><text class="sk-mono" x="346" y="151" font-size="13" text-anchor="middle" fill="#EAF2FF">Power BI</text></g><g class="sk-pop" style="animation-delay:0.58s"><rect x="401.44" y="130" width="52" height="32" rx="16" fill="#818CF8" fill-opacity=".1" stroke="#818CF8" stroke-opacity=".45"/><text class="sk-mono" x="427" y="151" font-size="13" text-anchor="middle" fill="#EAF2FF">DAX</text></g><g class="sk-pop" style="animation-delay:0.65s"><rect x="463.23" y="130" width="84" height="32" rx="16" fill="#818CF8" fill-opacity=".1" stroke="#818CF8" stroke-opacity=".45"/><text class="sk-mono" x="505" y="151" font-size="13" text-anchor="middle" fill="#EAF2FF">Alteryx</text></g><g class="sk-pop" style="animation-delay:0.72s"><rect x="556.74" y="130" width="99" height="32" rx="16" fill="#818CF8" fill-opacity=".1" stroke="#818CF8" stroke-opacity=".45"/><text class="sk-mono" x="606" y="151" font-size="13" text-anchor="middle" fill="#EAF2FF">Streamlit</text></g><g class="sk-pop" style="animation-delay:0.79s"><rect x="666.11" y="130" width="155" height="32" rx="16" fill="#818CF8" fill-opacity=".1" stroke="#818CF8" stroke-opacity=".45"/><text class="sk-mono" x="744" y="151" font-size="13" text-anchor="middle" fill="#EAF2FF">Excel Dashboards</text></g>
+  <g class="sk-in" style="animation-delay:0.44s">
+    <circle cx="64" cy="220" r="7" fill="#05080F" stroke="#C084FC" stroke-width="2"/>
+    <circle class="sk-pulse" cx="64" cy="220" r="3" fill="#C084FC" style="animation-delay:0.6s"/>
+    <text class="sk-sans" x="88" y="226" font-size="18" font-weight="700" fill="#EAF2FF">Machine Learning</text>
+    <text class="sk-mono" x="88" y="246" font-size="11" letter-spacing="1.5" fill="#8B9BB4">05 TOOLS</text>
+  </g><g class="sk-pop" style="animation-delay:0.72s"><rect x="300" y="204" width="84" height="32" rx="16" fill="#C084FC" fill-opacity=".1" stroke="#C084FC" stroke-opacity=".45"/><text class="sk-mono" x="342" y="225" font-size="13" text-anchor="middle" fill="#EAF2FF">XGBoost</text></g><g class="sk-pop" style="animation-delay:0.79s"><rect x="393.51" y="204" width="123" height="32" rx="16" fill="#C084FC" fill-opacity=".1" stroke="#C084FC" stroke-opacity=".45"/><text class="sk-mono" x="455" y="225" font-size="13" text-anchor="middle" fill="#EAF2FF">Scikit-learn</text></g><g class="sk-pop" style="animation-delay:0.86s"><rect x="526.67" y="204" width="131" height="32" rx="16" fill="#C084FC" fill-opacity=".1" stroke="#C084FC" stroke-opacity=".45"/><text class="sk-mono" x="592" y="225" font-size="13" text-anchor="middle" fill="#EAF2FF">Random Forest</text></g><g class="sk-pop" style="animation-delay:0.93s"><rect x="667.76" y="204" width="179" height="32" rx="16" fill="#C084FC" fill-opacity=".1" stroke="#C084FC" stroke-opacity=".45"/><text class="sk-mono" x="757" y="225" font-size="13" text-anchor="middle" fill="#EAF2FF">Logistic Regression</text></g><g class="sk-pop" style="animation-delay:1.00s"><rect x="856.43" y="204" width="52" height="32" rx="16" fill="#C084FC" fill-opacity=".1" stroke="#C084FC" stroke-opacity=".45"/><text class="sk-mono" x="882" y="225" font-size="13" text-anchor="middle" fill="#EAF2FF">CNN</text></g>
+  <g class="sk-in" style="animation-delay:0.56s">
+    <circle cx="64" cy="294" r="7" fill="#05080F" stroke="#FBBF24" stroke-width="2"/>
+    <circle class="sk-pulse" cx="64" cy="294" r="3" fill="#FBBF24" style="animation-delay:0.9s"/>
+    <text class="sk-sans" x="88" y="300" font-size="18" font-weight="700" fill="#EAF2FF">SQL Craft</text>
+    <text class="sk-mono" x="88" y="320" font-size="11" letter-spacing="1.5" fill="#8B9BB4">05 TOOLS</text>
+  </g><g class="sk-pop" style="animation-delay:0.93s"><rect x="300" y="278" width="68" height="32" rx="16" fill="#FBBF24" fill-opacity=".1" stroke="#FBBF24" stroke-opacity=".45"/><text class="sk-mono" x="334" y="299" font-size="13" text-anchor="middle" fill="#EAF2FF">JOINs</text></g><g class="sk-pop" style="animation-delay:1.00s"><rect x="377.65" y="278" width="60" height="32" rx="16" fill="#FBBF24" fill-opacity=".1" stroke="#FBBF24" stroke-opacity=".45"/><text class="sk-mono" x="408" y="299" font-size="13" text-anchor="middle" fill="#EAF2FF">CTEs</text></g><g class="sk-pop" style="animation-delay:1.07s"><rect x="447.37" y="278" width="155" height="32" rx="16" fill="#FBBF24" fill-opacity=".1" stroke="#FBBF24" stroke-opacity=".45"/><text class="sk-mono" x="525" y="299" font-size="13" text-anchor="middle" fill="#EAF2FF">Window functions</text></g><g class="sk-pop" style="animation-delay:1.14s"><rect x="612.25" y="278" width="107" height="32" rx="16" fill="#FBBF24" fill-opacity=".1" stroke="#FBBF24" stroke-opacity=".45"/><text class="sk-mono" x="666" y="299" font-size="13" text-anchor="middle" fill="#EAF2FF">CASE logic</text></g><g class="sk-pop" style="animation-delay:1.21s"><rect x="729.55" y="278" width="123" height="32" rx="16" fill="#FBBF24" fill-opacity=".1" stroke="#FBBF24" stroke-opacity=".45"/><text class="sk-mono" x="791" y="299" font-size="13" text-anchor="middle" fill="#EAF2FF">Aggregations</text></g>
+  <g class="sk-in" style="animation-delay:0.68s">
+    <circle cx="64" cy="368" r="7" fill="#05080F" stroke="#2DD4BF" stroke-width="2"/>
+    <circle class="sk-pulse" cx="64" cy="368" r="3" fill="#2DD4BF" style="animation-delay:1.2s"/>
+    <text class="sk-sans" x="88" y="374" font-size="18" font-weight="700" fill="#EAF2FF">Data Quality</text>
+    <text class="sk-mono" x="88" y="394" font-size="11" letter-spacing="1.5" fill="#8B9BB4">05 TOOLS</text>
+  </g><g class="sk-pop" style="animation-delay:1.14s"><rect x="300" y="352" width="131" height="32" rx="16" fill="#2DD4BF" fill-opacity=".1" stroke="#2DD4BF" stroke-opacity=".45"/><text class="sk-mono" x="366" y="373" font-size="13" text-anchor="middle" fill="#EAF2FF">Data cleaning</text></g><g class="sk-pop" style="animation-delay:1.21s"><rect x="441.09000000000003" y="352" width="179" height="32" rx="16" fill="#2DD4BF" fill-opacity=".1" stroke="#2DD4BF" stroke-opacity=".45"/><text class="sk-mono" x="530" y="373" font-size="13" text-anchor="middle" fill="#EAF2FF">Feature engineering</text></g><g class="sk-pop" style="animation-delay:1.28s"><rect x="629.76" y="352" width="84" height="32" rx="16" fill="#2DD4BF" fill-opacity=".1" stroke="#2DD4BF" stroke-opacity=".45"/><text class="sk-mono" x="672" y="373" font-size="13" text-anchor="middle" fill="#EAF2FF">GeoJSON</text></g><g class="sk-pop" style="animation-delay:1.35s"><rect x="723.27" y="352" width="131" height="32" rx="16" fill="#2DD4BF" fill-opacity=".1" stroke="#2DD4BF" stroke-opacity=".45"/><text class="sk-mono" x="789" y="373" font-size="13" text-anchor="middle" fill="#EAF2FF">OpenStreetMap</text></g><g class="sk-pop" style="animation-delay:1.42s"><rect x="864.36" y="352" width="123" height="32" rx="16" fill="#2DD4BF" fill-opacity=".1" stroke="#2DD4BF" stroke-opacity=".45"/><text class="sk-mono" x="926" y="373" font-size="13" text-anchor="middle" fill="#EAF2FF">IoU matching</text></g>
+  <g class="sk-in" style="animation-delay:0.80s">
+    <circle cx="64" cy="442" r="7" fill="#05080F" stroke="#818CF8" stroke-width="2"/>
+    <circle class="sk-pulse" cx="64" cy="442" r="3" fill="#818CF8" style="animation-delay:1.5s"/>
+    <text class="sk-sans" x="88" y="448" font-size="18" font-weight="700" fill="#EAF2FF">Tools</text>
+    <text class="sk-mono" x="88" y="468" font-size="11" letter-spacing="1.5" fill="#8B9BB4">04 TOOLS</text>
+  </g><g class="sk-pop" style="animation-delay:1.35s"><rect x="300" y="426" width="52" height="32" rx="16" fill="#818CF8" fill-opacity=".1" stroke="#818CF8" stroke-opacity=".45"/><text class="sk-mono" x="326" y="447" font-size="13" text-anchor="middle" fill="#EAF2FF">Git</text></g><g class="sk-pop" style="animation-delay:1.42s"><rect x="361.79" y="426" width="76" height="32" rx="16" fill="#818CF8" fill-opacity=".1" stroke="#818CF8" stroke-opacity=".45"/><text class="sk-mono" x="400" y="447" font-size="13" text-anchor="middle" fill="#EAF2FF">GitHub</text></g><g class="sk-pop" style="animation-delay:1.49s"><rect x="447.37" y="426" width="84" height="32" rx="16" fill="#818CF8" fill-opacity=".1" stroke="#818CF8" stroke-opacity=".45"/><text class="sk-mono" x="489" y="447" font-size="13" text-anchor="middle" fill="#EAF2FF">Jupyter</text></g><g class="sk-pop" style="animation-delay:1.56s"><rect x="540.88" y="426" width="84" height="32" rx="16" fill="#818CF8" fill-opacity=".1" stroke="#818CF8" stroke-opacity=".45"/><text class="sk-mono" x="583" y="447" font-size="13" text-anchor="middle" fill="#EAF2FF">VS Code</text></g>
+</svg>

@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 210" width="1200" height="210" role="img" aria-label="Highlights: 50.4M Records audited; 25M Data values built; $776K Revenue at risk found; 8.76 CGPA">
+<title>Highlights: 50.4M Records audited; 25M Data values built; $776K Revenue at risk found; 8.76 CGPA</title>
+<style>
+    .hl-sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Inter, 'Helvetica Neue', Arial, sans-serif; }
+    .hl-mono { font-family: ui-monospace, 'Cascadia Code', 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace; }
+    .hl-in { animation: hl-in 1.1s cubic-bezier(.16,1,.3,1) both; }
+    .hl-pop { animation: hl-pop .7s cubic-bezier(.34,1.56,.64,1) both; }
+    .hl-draw { stroke-dasharray: 1400; stroke-dashoffset: 1400; animation: hl-draw 2s cubic-bezier(.65,0,.35,1) .4s forwards; }
+    .hl-pulse { animation: hl-pulse 2s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    .hl-blink { animation: hl-blink 1s steps(1) infinite; }
+    @keyframes hl-in { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+    @keyframes hl-pop { from { opacity: 0; transform: translateY(8px) scale(.96); } to { opacity: 1; transform: none; } }
+    @keyframes hl-draw { to { stroke-dashoffset: 0; } }
+    @keyframes hl-pulse { 0%,100% { transform: scale(1); opacity: 1; } 50% { transform: scale(1.8); opacity: .25; } }
+    @keyframes hl-blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .hl-in, .hl-pop, .hl-pulse, .hl-blink { animation: none !important; }
+      .hl-draw { animation: none; stroke-dashoffset: 0; }
+    }
+    .hl-bar { transform-box: fill-box; transform-origin: left; animation: hl-bar 2.4s cubic-bezier(.65,0,.35,1) both, hl-shine 3s ease-in-out 3s infinite; }
+    @keyframes hl-bar { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+    @keyframes hl-shine { 0%,100% { opacity: 1; } 50% { opacity: .45; } }
+    @media (prefers-reduced-motion: reduce) { .hl-bar { animation: none; } }</style>
+  <defs><linearGradient id="hl-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0A1020"/><stop offset="1" stop-color="#05080F"/></linearGradient><radialGradient id="hl-g0" cx="85%" cy="10%" r="80%"><stop offset="0" stop-color="#2DD4BF" stop-opacity=".22"/><stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/></radialGradient><radialGradient id="hl-g1" cx="85%" cy="10%" r="80%"><stop offset="0" stop-color="#818CF8" stop-opacity=".22"/><stop offset="1" stop-color="#818CF8" stop-opacity="0"/></radialGradient><radialGradient id="hl-g2" cx="85%" cy="10%" r="80%"><stop offset="0" stop-color="#C084FC" stop-opacity=".22"/><stop offset="1" stop-color="#C084FC" stop-opacity="0"/></radialGradient><radialGradient id="hl-g3" cx="85%" cy="10%" r="80%"><stop offset="0" stop-color="#FBBF24" stop-opacity=".22"/><stop offset="1" stop-color="#FBBF24" stop-opacity="0"/></radialGradient></defs>
+  
+  <g class="hl-pop" style="animation-delay:0.20s">
+    <rect x="0.5" y=".5" width="284.0" height="209" rx="20" fill="url(#hl-bg)" stroke="#1E2A44"/>
+    <rect x="0.5" y=".5" width="284.0" height="209" rx="20" fill="url(#hl-g0)"/>
+    <text class="hl-sans" x="30.0" y="92" font-size="52" font-weight="800" letter-spacing="-2" fill="#2DD4BF">50.4M</text>
+    <text class="hl-sans" x="32.0" y="128" font-size="17" font-weight="600" fill="#EAF2FF">Records audited</text>
+    <text class="hl-mono" x="32.0" y="152" font-size="12" letter-spacing="1" fill="#8B9BB4">Microsoft Innovate 2026</text>
+    <rect x="32.0" y="176" width="221.0" height="4" rx="2" fill="#1E2A44"/>
+    <rect x="32.0" y="176" width="221.0" height="4" rx="2" fill="#2DD4BF" class="hl-bar" style="animation-delay:0.6s"/>
+  </g>
+  <g class="hl-pop" style="animation-delay:0.35s">
+    <rect x="305.5" y=".5" width="284.0" height="209" rx="20" fill="url(#hl-bg)" stroke="#1E2A44"/>
+    <rect x="305.5" y=".5" width="284.0" height="209" rx="20" fill="url(#hl-g1)"/>
+    <text class="hl-sans" x="335.0" y="92" font-size="52" font-weight="800" letter-spacing="-2" fill="#818CF8">25M</text>
+    <text class="hl-sans" x="337.0" y="128" font-size="17" font-weight="600" fill="#EAF2FF">Data values built</text>
+    <text class="hl-mono" x="337.0" y="152" font-size="12" letter-spacing="1" fill="#8B9BB4">AvecAgro dataset</text>
+    <rect x="337.0" y="176" width="221.0" height="4" rx="2" fill="#1E2A44"/>
+    <rect x="337.0" y="176" width="221.0" height="4" rx="2" fill="#818CF8" class="hl-bar" style="animation-delay:0.8s"/>
+  </g>
+  <g class="hl-pop" style="animation-delay:0.50s">
+    <rect x="610.5" y=".5" width="284.0" height="209" rx="20" fill="url(#hl-bg)" stroke="#1E2A44"/>
+    <rect x="610.5" y=".5" width="284.0" height="209" rx="20" fill="url(#hl-g2)"/>
+    <text class="hl-sans" x="640.0" y="92" font-size="52" font-weight="800" letter-spacing="-2" fill="#C084FC">$776K</text>
+    <text class="hl-sans" x="642.0" y="128" font-size="17" font-weight="600" fill="#EAF2FF">Revenue at risk found</text>
+    <text class="hl-mono" x="642.0" y="152" font-size="12" letter-spacing="1" fill="#8B9BB4">airline churn model</text>
+    <rect x="642.0" y="176" width="221.0" height="4" rx="2" fill="#1E2A44"/>
+    <rect x="642.0" y="176" width="221.0" height="4" rx="2" fill="#C084FC" class="hl-bar" style="animation-delay:1.0s"/>
+  </g>
+  <g class="hl-pop" style="animation-delay:0.65s">
+    <rect x="915.5" y=".5" width="284.0" height="209" rx="20" fill="url(#hl-bg)" stroke="#1E2A44"/>
+    <rect x="915.5" y=".5" width="284.0" height="209" rx="20" fill="url(#hl-g3)"/>
+    <text class="hl-sans" x="945.0" y="92" font-size="52" font-weight="800" letter-spacing="-2" fill="#FBBF24">8.76</text>
+    <text class="hl-sans" x="947.0" y="128" font-size="17" font-weight="600" fill="#EAF2FF">CGPA</text>
+    <text class="hl-mono" x="947.0" y="152" font-size="12" letter-spacing="1" fill="#8B9BB4">B.Tech CSE · Bennett</text>
+    <rect x="947.0" y="176" width="221.0" height="4" rx="2" fill="#1E2A44"/>
+    <rect x="947.0" y="176" width="221.0" height="4" rx="2" fill="#FBBF24" class="hl-bar" style="animation-delay:1.2s"/>
+  </g>
+</svg>

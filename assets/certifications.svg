@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 368" width="1200" height="368" role="img" aria-label="Certifications: Advanced SQL Analytics (Project Completion) (IIT Guwahati · Summer Projects); Driving Retention in Airline Loyalty Programs (IIT Guwahati · Summer Projects); Python for Data Science (Infosys Springboard); SQL and Relational Databases 101 (IBM Cognitive Class); Data Analysis with Python (IBM Cognitive Class)">
+<title>Certifications: Advanced SQL Analytics (Project Completion) (IIT Guwahati · Summer Projects); Driving Retention in Airline Loyalty Programs (IIT Guwahati · Summer Projects); Python for Data Science (Infosys Springboard); SQL and Relational Databases 101 (IBM Cognitive Class); Data Analysis with Python (IBM Cognitive Class)</title>
+<style>
+    .ce-sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Inter, 'Helvetica Neue', Arial, sans-serif; }
+    .ce-mono { font-family: ui-monospace, 'Cascadia Code', 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace; }
+    .ce-in { animation: ce-in 1.1s cubic-bezier(.16,1,.3,1) both; }
+    .ce-pop { animation: ce-pop .7s cubic-bezier(.34,1.56,.64,1) both; }
+    .ce-draw { stroke-dasharray: 1400; stroke-dashoffset: 1400; animation: ce-draw 2s cubic-bezier(.65,0,.35,1) .4s forwards; }
+    .ce-pulse { animation: ce-pulse 2s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    .ce-blink { animation: ce-blink 1s steps(1) infinite; }
+    @keyframes ce-in { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+    @keyframes ce-pop { from { opacity: 0; transform: translateY(8px) scale(.96); } to { opacity: 1; transform: none; } }
+    @keyframes ce-draw { to { stroke-dashoffset: 0; } }
+    @keyframes ce-pulse { 0%,100% { transform: scale(1); opacity: 1; } 50% { transform: scale(1.8); opacity: .25; } }
+    @keyframes ce-blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .ce-in, .ce-pop, .ce-pulse, .ce-blink { animation: none !important; }
+      .ce-draw { animation: none; stroke-dashoffset: 0; }
+    }</style>
+  <defs>
+    <linearGradient id="ce-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A1020"/><stop offset="1" stop-color="#05080F"/>
+    </linearGradient>
+    <radialGradient id="ce-glow" cx="10%" cy="20%" r="60%">
+      <stop offset="0" stop-color="#C084FC" stop-opacity=".28"/><stop offset="1" stop-color="#C084FC" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="ce-grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#2DD4BF" stroke-opacity=".06"/>
+    </pattern>
+    <clipPath id="ce-clip"><rect width="1200" height="368" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#ce-clip)">
+    <rect width="1200" height="368" fill="url(#ce-bg)"/>
+    <rect width="1200" height="368" fill="url(#ce-grid)"/>
+    <rect width="1200" height="368" fill="url(#ce-glow)"/>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="367" rx="22" fill="none" stroke="#1E2A44"/><g class="ce-in" style="animation-delay:0.20s">
+    <rect x="40" y="40" width="1120" height="48" rx="12" fill="#2DD4BF" fill-opacity=".05" stroke="#1E2A44"/>
+    <text class="ce-mono" x="62" y="70" font-size="13" fill="#2DD4BF">01</text>
+    <circle cx="110" cy="64" r="11" fill="#2DD4BF" fill-opacity=".15" stroke="#2DD4BF"/>
+    <path d="M105 64 l4 4 l7 -8" fill="none" stroke="#2DD4BF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text class="ce-sans" x="136" y="70" font-size="16" font-weight="600" fill="#EAF2FF">Advanced SQL Analytics (Project Completion)</text>
+    <text class="ce-mono" x="1070" y="69" font-size="11.5" text-anchor="end" letter-spacing="1.2" fill="#8B9BB4">IIT GUWAHATI · SUMMER PROJECTS</text>
+    <rect x="1086" y="52" width="56" height="24" rx="12" fill="#2DD4BF" fill-opacity=".12"/>
+    <text class="ce-mono" x="1114" y="68" font-size="12" text-anchor="middle" fill="#2DD4BF">2025</text>
+  </g><g class="ce-in" style="animation-delay:0.30s">
+    <rect x="40" y="100" width="1120" height="48" rx="12" fill="#818CF8" fill-opacity=".05" stroke="#1E2A44"/>
+    <text class="ce-mono" x="62" y="130" font-size="13" fill="#818CF8">02</text>
+    <circle cx="110" cy="124" r="11" fill="#818CF8" fill-opacity=".15" stroke="#818CF8"/>
+    <path d="M105 124 l4 4 l7 -8" fill="none" stroke="#818CF8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text class="ce-sans" x="136" y="130" font-size="16" font-weight="600" fill="#EAF2FF">Driving Retention in Airline Loyalty Programs</text>
+    <text class="ce-mono" x="1070" y="129" font-size="11.5" text-anchor="end" letter-spacing="1.2" fill="#8B9BB4">IIT GUWAHATI · SUMMER PROJECTS</text>
+    <rect x="1086" y="112" width="56" height="24" rx="12" fill="#818CF8" fill-opacity=".12"/>
+    <text class="ce-mono" x="1114" y="128" font-size="12" text-anchor="middle" fill="#818CF8">2026</text>
+  </g><g class="ce-in" style="animation-delay:0.40s">
+    <rect x="40" y="160" width="1120" height="48" rx="12" fill="#C084FC" fill-opacity=".05" stroke="#1E2A44"/>
+    <text class="ce-mono" x="62" y="190" font-size="13" fill="#C084FC">03</text>
+    <circle cx="110" cy="184" r="11" fill="#C084FC" fill-opacity=".15" stroke="#C084FC"/>
+    <path d="M105 184 l4 4 l7 -8" fill="none" stroke="#C084FC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text class="ce-sans" x="136" y="190" font-size="16" font-weight="600" fill="#EAF2FF">Python for Data Science</text>
+    <text class="ce-mono" x="1070" y="189" font-size="11.5" text-anchor="end" letter-spacing="1.2" fill="#8B9BB4">INFOSYS SPRINGBOARD</text>
+    <rect x="1086" y="172" width="56" height="24" rx="12" fill="#C084FC" fill-opacity=".12"/>
+    <text class="ce-mono" x="1114" y="188" font-size="12" text-anchor="middle" fill="#C084FC">2025</text>
+  </g><g class="ce-in" style="animation-delay:0.50s">
+    <rect x="40" y="220" width="1120" height="48" rx="12" fill="#FBBF24" fill-opacity=".05" stroke="#1E2A44"/>
+    <text class="ce-mono" x="62" y="250" font-size="13" fill="#FBBF24">04</text>
+    <circle cx="110" cy="244" r="11" fill="#FBBF24" fill-opacity=".15" stroke="#FBBF24"/>
+    <path d="M105 244 l4 4 l7 -8" fill="none" stroke="#FBBF24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text class="ce-sans" x="136" y="250" font-size="16" font-weight="600" fill="#EAF2FF">SQL and Relational Databases 101</text>
+    <text class="ce-mono" x="1070" y="249" font-size="11.5" text-anchor="end" letter-spacing="1.2" fill="#8B9BB4">IBM COGNITIVE CLASS</text>
+    <rect x="1086" y="232" width="56" height="24" rx="12" fill="#FBBF24" fill-opacity=".12"/>
+    <text class="ce-mono" x="1114" y="248" font-size="12" text-anchor="middle" fill="#FBBF24">2025</text>
+  </g><g class="ce-in" style="animation-delay:0.60s">
+    <rect x="40" y="280" width="1120" height="48" rx="12" fill="#2DD4BF" fill-opacity=".05" stroke="#1E2A44"/>
+    <text class="ce-mono" x="62" y="310" font-size="13" fill="#2DD4BF">05</text>
+    <circle cx="110" cy="304" r="11" fill="#2DD4BF" fill-opacity=".15" stroke="#2DD4BF"/>
+    <path d="M105 304 l4 4 l7 -8" fill="none" stroke="#2DD4BF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text class="ce-sans" x="136" y="310" font-size="16" font-weight="600" fill="#EAF2FF">Data Analysis with Python</text>
+    <text class="ce-mono" x="1070" y="309" font-size="11.5" text-anchor="end" letter-spacing="1.2" fill="#8B9BB4">IBM COGNITIVE CLASS</text>
+    <rect x="1086" y="292" width="56" height="24" rx="12" fill="#2DD4BF" fill-opacity=".12"/>
+    <text class="ce-mono" x="1114" y="308" font-size="12" text-anchor="middle" fill="#2DD4BF">2025</text>
+  </g>
+</svg>

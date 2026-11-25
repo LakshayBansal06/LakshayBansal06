@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 390" width="1200" height="390" role="img" aria-label="StockSense: Inventory optimization: why stores run out of fast movers while slow SKUs pile up. 20+ SQL queries, 6 demand features and an XGBoost classifier that grades every forecast, shipped as a live Streamlit app. Stack: SQL, Python, Pandas, XGBoost, Streamlit.">
+<title>StockSense: Inventory optimization: why stores run out of fast movers while slow SKUs pile up. 20+ SQL queries, 6 demand features and an XGBoost classifier that grades every forecast, shipped as a live Streamlit app. Stack: SQL, Python, Pandas, XGBoost, Streamlit.</title>
+<style>
+    .p3-sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Inter, 'Helvetica Neue', Arial, sans-serif; }
+    .p3-mono { font-family: ui-monospace, 'Cascadia Code', 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace; }
+    .p3-in { animation: p3-in 1.1s cubic-bezier(.16,1,.3,1) both; }
+    .p3-pop { animation: p3-pop .7s cubic-bezier(.34,1.56,.64,1) both; }
+    .p3-draw { stroke-dasharray: 1400; stroke-dashoffset: 1400; animation: p3-draw 2s cubic-bezier(.65,0,.35,1) .4s forwards; }
+    .p3-pulse { animation: p3-pulse 2s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    .p3-blink { animation: p3-blink 1s steps(1) infinite; }
+    @keyframes p3-in { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+    @keyframes p3-pop { from { opacity: 0; transform: translateY(8px) scale(.96); } to { opacity: 1; transform: none; } }
+    @keyframes p3-draw { to { stroke-dashoffset: 0; } }
+    @keyframes p3-pulse { 0%,100% { transform: scale(1); opacity: 1; } 50% { transform: scale(1.8); opacity: .25; } }
+    @keyframes p3-blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .p3-in, .p3-pop, .p3-pulse, .p3-blink { animation: none !important; }
+      .p3-draw { animation: none; stroke-dashoffset: 0; }
+    }</style>
+  <defs>
+    <linearGradient id="p3-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A1020"/><stop offset="1" stop-color="#05080F"/>
+    </linearGradient>
+    <radialGradient id="p3-glow" cx="85%" cy="20%" r="60%">
+      <stop offset="0" stop-color="#FBBF24" stop-opacity=".28"/><stop offset="1" stop-color="#FBBF24" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="p3-grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#2DD4BF" stroke-opacity=".06"/>
+    </pattern>
+    <clipPath id="p3-clip"><rect width="1200" height="390" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#p3-clip)">
+    <rect width="1200" height="390" fill="url(#p3-bg)"/>
+    <rect width="1200" height="390" fill="url(#p3-grid)"/>
+    <rect width="1200" height="390" fill="url(#p3-glow)"/>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="389" rx="22" fill="none" stroke="#1E2A44"/>
+  <style>.p3-trace { stroke-dasharray: 509 2671; animation: p3-trace 8s linear infinite; }
+  @keyframes p3-trace { from { stroke-dashoffset: 3180; } to { stroke-dashoffset: 0; } }
+  @media (prefers-reduced-motion: reduce) { .p3-trace { display: none; } }</style>
+  <rect class="p3-trace" x="1" y="1" width="1198" height="388" rx="22" fill="none" stroke="#FBBF24" stroke-width="2" stroke-linecap="round" opacity=".9"/>
+  <text class="p3-sans" x="1180" y="120" font-size="200" font-weight="900" text-anchor="end" fill="#FBBF24" fill-opacity=".04">04</text>
+  <g class="p3-in" style="animation-delay:0.10s">
+    <text class="p3-mono" x="56" y="62" font-size="12.5" letter-spacing="3" fill="#FBBF24">04 · IIT GUWAHATI · FORECASTING · STREAMLIT · 2025</text>
+    <text class="p3-sans" x="53" y="130" font-size="50" font-weight="800" letter-spacing="-1.5" fill="#EAF2FF">StockSense</text>
+    <path class="p3-draw" d="M56 150 H220" stroke="#FBBF24" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <g class="p3-in" style="animation-delay:0.30s"><text class="p3-sans" x="56" y="186" font-size="18" fill="#EAF2FF" fill-opacity=".86">Inventory optimization: why stores run out of fast movers</text><text class="p3-sans" x="56" y="212" font-size="18" fill="#EAF2FF" fill-opacity=".86">while slow SKUs pile up.</text><text class="p3-mono" x="56" y="256" font-size="13.5" fill="#8B9BB4"><tspan fill="#FBBF24">BUILT ›</tspan> 20+ SQL queries, 6 demand features and an XGBoost classifier that grades</text><text class="p3-mono" x="122" y="278" font-size="13.5" fill="#8B9BB4">every forecast, shipped as a live Streamlit app.</text></g>
+  <g class="p3-pop" style="animation-delay:0.70s"><rect x="56" y="322" width="52" height="32" rx="16" fill="#FBBF24" fill-opacity=".1" stroke="#FBBF24" stroke-opacity=".45"/><text class="p3-mono" x="82" y="343" font-size="13" text-anchor="middle" fill="#EAF2FF">SQL</text></g><g class="p3-pop" style="animation-delay:0.77s"><rect x="117.78999999999999" y="322" width="76" height="32" rx="16" fill="#FBBF24" fill-opacity=".1" stroke="#FBBF24" stroke-opacity=".45"/><text class="p3-mono" x="156" y="343" font-size="13" text-anchor="middle" fill="#EAF2FF">Python</text></g><g class="p3-pop" style="animation-delay:0.84s"><rect x="203.37" y="322" width="76" height="32" rx="16" fill="#FBBF24" fill-opacity=".1" stroke="#FBBF24" stroke-opacity=".45"/><text class="p3-mono" x="241" y="343" font-size="13" text-anchor="middle" fill="#EAF2FF">Pandas</text></g><g class="p3-pop" style="animation-delay:0.91s"><rect x="288.95" y="322" width="84" height="32" rx="16" fill="#FBBF24" fill-opacity=".1" stroke="#FBBF24" stroke-opacity=".45"/><text class="p3-mono" x="331" y="343" font-size="13" text-anchor="middle" fill="#EAF2FF">XGBoost</text></g><g class="p3-pop" style="animation-delay:0.98s"><rect x="382.46" y="322" width="99" height="32" rx="16" fill="#FBBF24" fill-opacity=".1" stroke="#FBBF24" stroke-opacity=".45"/><text class="p3-mono" x="432" y="343" font-size="13" text-anchor="middle" fill="#EAF2FF">Streamlit</text></g>
+  <g class="p3-pop" style="animation-delay:0.50s"><rect x="820" y="55" width="330" height="82" rx="16" fill="#FBBF24" fill-opacity=".06" stroke="#FBBF24" stroke-opacity=".3"/><rect x="820" y="73" width="4" height="46" rx="2" fill="#FBBF24"/><text class="p3-sans" x="846" y="101" font-size="32" font-weight="800" letter-spacing="-1" fill="#FBBF24">4,500+</text><text class="p3-mono" x="848" y="122" font-size="11.5" letter-spacing="2" fill="#8B9BB4">RECORDS</text></g><g class="p3-pop" style="animation-delay:0.65s"><rect x="820" y="151" width="330" height="82" rx="16" fill="#FBBF24" fill-opacity=".06" stroke="#FBBF24" stroke-opacity=".3"/><rect x="820" y="169" width="4" height="46" rx="2" fill="#FBBF24"/><text class="p3-sans" x="846" y="197" font-size="32" font-weight="800" letter-spacing="-1" fill="#FBBF24">30</text><text class="p3-mono" x="848" y="218" font-size="11.5" letter-spacing="2" fill="#8B9BB4">SKUS</text></g><g class="p3-pop" style="animation-delay:0.80s"><rect x="820" y="247" width="330" height="82" rx="16" fill="#FBBF24" fill-opacity=".06" stroke="#FBBF24" stroke-opacity=".3"/><rect x="820" y="265" width="4" height="46" rx="2" fill="#FBBF24"/><text class="p3-sans" x="846" y="293" font-size="32" font-weight="800" letter-spacing="-1" fill="#FBBF24">10+</text><text class="p3-mono" x="848" y="314" font-size="11.5" letter-spacing="2" fill="#8B9BB4">DASHBOARD KPIS</text></g>
+</svg>

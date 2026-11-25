@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="Lakshay Bansal — Got data that won&#x27;t talk? Let&#x27;s make it decisive. Thanks for visiting.">
+<title>Lakshay Bansal — Got data that won&#x27;t talk? Let&#x27;s make it decisive. Thanks for visiting.</title>
+<style>
+    .ft-sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Inter, 'Helvetica Neue', Arial, sans-serif; }
+    .ft-mono { font-family: ui-monospace, 'Cascadia Code', 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace; }
+    .ft-in { animation: ft-in 1.1s cubic-bezier(.16,1,.3,1) both; }
+    .ft-pop { animation: ft-pop .7s cubic-bezier(.34,1.56,.64,1) both; }
+    .ft-draw { stroke-dasharray: 1400; stroke-dashoffset: 1400; animation: ft-draw 2s cubic-bezier(.65,0,.35,1) .4s forwards; }
+    .ft-pulse { animation: ft-pulse 2s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    .ft-blink { animation: ft-blink 1s steps(1) infinite; }
+    @keyframes ft-in { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+    @keyframes ft-pop { from { opacity: 0; transform: translateY(8px) scale(.96); } to { opacity: 1; transform: none; } }
+    @keyframes ft-draw { to { stroke-dashoffset: 0; } }
+    @keyframes ft-pulse { 0%,100% { transform: scale(1); opacity: 1; } 50% { transform: scale(1.8); opacity: .25; } }
+    @keyframes ft-blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .ft-in, .ft-pop, .ft-pulse, .ft-blink { animation: none !important; }
+      .ft-draw { animation: none; stroke-dashoffset: 0; }
+    }
+    .ft-w { animation: ft-w 12s linear infinite; } .ft-w.w2 { animation-duration: 18s; animation-direction: reverse; } .ft-w.w3 { animation-duration: 26s; }
+    @keyframes ft-w { to { transform: translateX(-1200px); } }
+    @media (prefers-reduced-motion: reduce) { .ft-w { animation: none; } }</style>
+  <defs>
+    <linearGradient id="ft-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A1020"/><stop offset="1" stop-color="#05080F"/>
+    </linearGradient>
+    <radialGradient id="ft-glow" cx="50%" cy="20%" r="60%">
+      <stop offset="0" stop-color="#2DD4BF" stop-opacity=".28"/><stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="ft-grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#2DD4BF" stroke-opacity=".06"/>
+    </pattern>
+    <clipPath id="ft-clip"><rect width="1200" height="260" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#ft-clip)">
+    <rect width="1200" height="260" fill="url(#ft-bg)"/>
+    <rect width="1200" height="260" fill="url(#ft-grid)"/>
+    <rect width="1200" height="260" fill="url(#ft-glow)"/>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="259" rx="22" fill="none" stroke="#1E2A44"/>
+  <defs><linearGradient id="ft-name" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#99F6E4"/><stop offset=".5" stop-color="#2DD4BF"/><stop offset="1" stop-color="#818CF8"/></linearGradient></defs>
+  <g clip-path="url(#ft-clip)">
+    <path class="ft-w" d="M0 200 Q75.0 182 150.0 200 T300 200 Q375.0 182 450.0 200 T600 200 Q675.0 182 750.0 200 T900 200 Q975.0 182 1050.0 200 T1200 200 Q1275.0 182 1350.0 200 T1500 200 Q1575.0 182 1650.0 200 T1800 200 Q1875.0 182 1950.0 200 T2100 200 Q2175.0 182 2250.0 200 T2400 200 Q2475.0 182 2550.0 200 T2700 200 V260 H0 Z" fill="#2DD4BF" fill-opacity=".10"/>
+    <path class="ft-w w2" d="M0 214 Q60.0 200 120.0 214 T240 214 Q300.0 200 360.0 214 T480 214 Q540.0 200 600.0 214 T720 214 Q780.0 200 840.0 214 T960 214 Q1020.0 200 1080.0 214 T1200 214 Q1260.0 200 1320.0 214 T1440 214 Q1500.0 200 1560.0 214 T1680 214 Q1740.0 200 1800.0 214 T1920 214 Q1980.0 200 2040.0 214 T2160 214 Q2220.0 200 2280.0 214 T2400 214 Q2460.0 200 2520.0 214 T2640 214 V260 H0 Z" fill="#818CF8" fill-opacity=".10"/>
+    <path class="ft-w w3" d="M0 228 Q100.0 218 200.0 228 T400 228 Q500.0 218 600.0 228 T800 228 Q900.0 218 1000.0 228 T1200 228 Q1300.0 218 1400.0 228 T1600 228 Q1700.0 218 1800.0 228 T2000 228 Q2100.0 218 2200.0 228 T2400 228 Q2500.0 218 2600.0 228 T2800 228 V260 H0 Z" fill="#C084FC" fill-opacity=".10"/>
+  </g>
+  <g class="ft-in">
+    <text class="ft-mono" x="600" y="56" font-size="12" letter-spacing="4" text-anchor="middle" fill="#2DD4BF">✦  THANKS FOR SCROLLING  ✦</text>
+  </g>
+  <g class="ft-in" style="animation-delay:0.25s">
+    <text class="ft-sans" x="600" y="116" font-size="46" font-weight="800" letter-spacing="-1.5" text-anchor="middle" fill="url(#ft-name)">Lakshay Bansal</text>
+  </g>
+  <g class="ft-in" style="animation-delay:0.50s">
+    <text class="ft-sans" x="600" y="152" font-size="18" font-style="italic" text-anchor="middle" fill="#8B9BB4">Got data that won&#x27;t talk? Let&#x27;s make it decisive.</text>
+  </g>
+</svg>

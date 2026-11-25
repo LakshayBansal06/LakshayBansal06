@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 544" width="1200" height="544" role="img" aria-label="About Lakshay Bansal: CS student who loves the moment a messy table finally tells a clear story. My work starts in SQL or Pandas and ends as a Power BI dashboard, a model, or a recommendation someone can act on. Currently: Data labelling freelancer at Uber AI Solutions; Data Scientist on AvecAgro, Team Project_404; Looking for Data Analyst, BA &amp; DS internships; Remote or on-site · replies within a day">
+<title>About Lakshay Bansal: CS student who loves the moment a messy table finally tells a clear story. My work starts in SQL or Pandas and ends as a Power BI dashboard, a model, or a recommendation someone can act on. Currently: Data labelling freelancer at Uber AI Solutions; Data Scientist on AvecAgro, Team Project_404; Looking for Data Analyst, BA &amp; DS internships; Remote or on-site · replies within a day</title>
+<style>
+    .ab-sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Inter, 'Helvetica Neue', Arial, sans-serif; }
+    .ab-mono { font-family: ui-monospace, 'Cascadia Code', 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace; }
+    .ab-in { animation: ab-in 1.1s cubic-bezier(.16,1,.3,1) both; }
+    .ab-pop { animation: ab-pop .7s cubic-bezier(.34,1.56,.64,1) both; }
+    .ab-draw { stroke-dasharray: 1400; stroke-dashoffset: 1400; animation: ab-draw 2s cubic-bezier(.65,0,.35,1) .4s forwards; }
+    .ab-pulse { animation: ab-pulse 2s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    .ab-blink { animation: ab-blink 1s steps(1) infinite; }
+    @keyframes ab-in { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+    @keyframes ab-pop { from { opacity: 0; transform: translateY(8px) scale(.96); } to { opacity: 1; transform: none; } }
+    @keyframes ab-draw { to { stroke-dashoffset: 0; } }
+    @keyframes ab-pulse { 0%,100% { transform: scale(1); opacity: 1; } 50% { transform: scale(1.8); opacity: .25; } }
+    @keyframes ab-blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .ab-in, .ab-pop, .ab-pulse, .ab-blink { animation: none !important; }
+      .ab-draw { animation: none; stroke-dashoffset: 0; }
+    }</style>
+  <defs>
+    <linearGradient id="ab-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A1020"/><stop offset="1" stop-color="#05080F"/>
+    </linearGradient>
+    <radialGradient id="ab-glow" cx="90%" cy="20%" r="60%">
+      <stop offset="0" stop-color="#2DD4BF" stop-opacity=".28"/><stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="ab-grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#2DD4BF" stroke-opacity=".06"/>
+    </pattern>
+    <clipPath id="ab-clip"><rect width="1200" height="544" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#ab-clip)">
+    <rect width="1200" height="544" fill="url(#ab-bg)"/>
+    <rect width="1200" height="544" fill="url(#ab-grid)"/>
+    <rect width="1200" height="544" fill="url(#ab-glow)"/>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="543" rx="22" fill="none" stroke="#1E2A44"/>
+  <rect x="0" y="0" width="1200" height="46" rx="22" fill="#101A33" fill-opacity=".6" clip-path="url(#ab-clip)"/>
+  <rect x="0" y="23" width="1200" height="23" fill="#101A33" fill-opacity=".6" clip-path="url(#ab-clip)"/>
+  <circle cx="30" cy="23" r="6.5" fill="#FF5F57"/><circle cx="52" cy="23" r="6.5" fill="#FEBC2E"/><circle cx="74" cy="23" r="6.5" fill="#28C840"/>
+  <text class="ab-mono" x="600" y="28" font-size="12.5" text-anchor="middle" fill="#8B9BB4">LakshayBansal06@github: ~ — zsh</text>
+  <path d="M0 46 H1200" stroke="#1E2A44"/>
+  <text class="ab-mono ab-in" style="animation-delay:0.50s" x="40" y="88" font-size="15"><tspan fill="#2DD4BF">❯</tspan> <tspan fill="#818CF8">~/LakshayBansal06</tspan> <tspan fill="#EAF2FF">whoami</tspan></text><text class="ab-sans ab-in" style="animation-delay:0.66s" x="40" y="114" font-size="17" font-weight="700" fill="#99F6E4">Lakshay Bansal — Data Analyst</text><text class="ab-mono ab-in" style="animation-delay:0.82s" x="40" y="140" font-size="15"><tspan fill="#2DD4BF">❯</tspan> <tspan fill="#818CF8">~/LakshayBansal06</tspan> <tspan fill="#EAF2FF">cat about.md</tspan></text><text class="ab-sans ab-in" style="animation-delay:0.98s" x="40" y="166" font-size="15.5" fill="#8B9BB4">CS student who loves the moment a messy table finally tells a</text><text class="ab-sans ab-in" style="animation-delay:1.14s" x="40" y="192" font-size="15.5" fill="#8B9BB4">clear story. My work starts in SQL or Pandas and ends as a Power</text><text class="ab-sans ab-in" style="animation-delay:1.30s" x="40" y="218" font-size="15.5" fill="#8B9BB4">BI dashboard, a model, or a recommendation someone can act on.</text><text class="ab-mono ab-in" style="animation-delay:1.46s" x="40" y="244" font-size="15"><tspan fill="#2DD4BF">❯</tspan> <tspan fill="#818CF8">~/LakshayBansal06</tspan> <tspan fill="#EAF2FF">cat me.json</tspan></text><text class="ab-mono ab-in" style="animation-delay:1.62s" x="40" y="270" font-size="15" fill="#EAF2FF">{</text><text class="ab-mono ab-in" style="animation-delay:1.78s" x="64" y="296" font-size="15"><tspan fill="#C084FC">"role"</tspan><tspan fill="#EAF2FF">: </tspan><tspan fill="#FBBF24">"Data Analyst &amp; Data Scientist"</tspan><tspan fill="#EAF2FF">,</tspan></text><text class="ab-mono ab-in" style="animation-delay:1.94s" x="64" y="322" font-size="15"><tspan fill="#C084FC">"education"</tspan><tspan fill="#EAF2FF">: </tspan><tspan fill="#FBBF24">"B.Tech CSE · Bennett University · 2024–28"</tspan><tspan fill="#EAF2FF">,</tspan></text><text class="ab-mono ab-in" style="animation-delay:2.10s" x="64" y="348" font-size="15"><tspan fill="#C084FC">"cgpa"</tspan><tspan fill="#EAF2FF">: </tspan><tspan fill="#FBBF24">"8.76"</tspan><tspan fill="#EAF2FF">,</tspan></text><text class="ab-mono ab-in" style="animation-delay:2.26s" x="64" y="374" font-size="15"><tspan fill="#C084FC">"core_tools"</tspan><tspan fill="#EAF2FF">: </tspan><tspan fill="#EAF2FF">[</tspan><tspan fill="#FBBF24">"SQL"</tspan><tspan fill="#EAF2FF">, </tspan><tspan fill="#FBBF24">"Python"</tspan><tspan fill="#EAF2FF">, </tspan><tspan fill="#FBBF24">"Power BI"</tspan><tspan fill="#EAF2FF">, </tspan><tspan fill="#FBBF24">"Excel"</tspan><tspan fill="#EAF2FF">]</tspan><tspan fill="#EAF2FF">,</tspan></text><text class="ab-mono ab-in" style="animation-delay:2.42s" x="64" y="400" font-size="15"><tspan fill="#C084FC">"research"</tspan><tspan fill="#EAF2FF">: </tspan><tspan fill="#FBBF24">"ICAIN-2025 · BITS Pilani Dubai · Springer"</tspan><tspan fill="#EAF2FF">,</tspan></text><text class="ab-mono ab-in" style="animation-delay:2.58s" x="64" y="426" font-size="15"><tspan fill="#C084FC">"motto"</tspan><tspan fill="#EAF2FF">: </tspan><tspan fill="#FBBF24">"Numbers first. Then the story."</tspan></text><text class="ab-mono ab-in" style="animation-delay:2.74s" x="40" y="452" font-size="15" fill="#EAF2FF">}</text><g class="ab-in" style="animation-delay:2.90s"><text class="ab-mono" x="40" y="478" font-size="15"><tspan fill="#2DD4BF">❯</tspan></text><rect class="ab-blink" x="58" y="464" width="9" height="18" fill="#2DD4BF"/></g>
+  <path d="M790 70 V514" stroke="#1E2A44" stroke-dasharray="3 6"/>
+  <g class="ab-in" style="animation-delay:0.80s">
+    <text class="ab-mono" x="820" y="100" font-size="12" letter-spacing="3.5" fill="#2DD4BF">◉ RIGHT NOW</text>
+  </g>
+  <g class="ab-in" style="animation-delay:1.00s"><circle class="ab-pulse" cx="834" cy="150" r="5" fill="#2DD4BF" style="animation-delay:0.0s"/><circle cx="834" cy="150" r="5" fill="#2DD4BF"/><text class="ab-sans" x="854" y="155" font-size="15" fill="#EAF2FF">Data labelling freelancer at Uber</text><text class="ab-sans" x="854" y="174" font-size="15" fill="#EAF2FF">AI Solutions</text></g><g class="ab-in" style="animation-delay:1.15s"><circle class="ab-pulse" cx="834" cy="202" r="5" fill="#818CF8" style="animation-delay:0.4s"/><circle cx="834" cy="202" r="5" fill="#818CF8"/><text class="ab-sans" x="854" y="207" font-size="15" fill="#EAF2FF">Data Scientist on AvecAgro, Team</text><text class="ab-sans" x="854" y="226" font-size="15" fill="#EAF2FF">Project_404</text></g><g class="ab-in" style="animation-delay:1.30s"><circle class="ab-pulse" cx="834" cy="254" r="5" fill="#C084FC" style="animation-delay:0.8s"/><circle cx="834" cy="254" r="5" fill="#C084FC"/><text class="ab-sans" x="854" y="259" font-size="15" fill="#EAF2FF">Looking for Data Analyst, BA &amp; DS</text><text class="ab-sans" x="854" y="278" font-size="15" fill="#EAF2FF">internships</text></g><g class="ab-in" style="animation-delay:1.45s"><circle class="ab-pulse" cx="834" cy="306" r="5" fill="#FBBF24" style="animation-delay:1.2s"/><circle cx="834" cy="306" r="5" fill="#FBBF24"/><text class="ab-sans" x="854" y="311" font-size="15" fill="#EAF2FF">Remote or on-site · replies within</text><text class="ab-sans" x="854" y="330" font-size="15" fill="#EAF2FF">a day</text></g>
+</svg>
